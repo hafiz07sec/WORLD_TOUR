@@ -18,9 +18,9 @@
 }
 #countryDetails{
     text-align: center;
-    padding: 20px;
+    
 }
 #countryDetails img{
     width: 200px;
-    
+    margin-bottom: 30px;
 }
